@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Spring Security. **
 
-- 💬 Ask me about **Core Java, OOPS, Collection Framework,JDBC, Servlet, Hibernate, SQL, HTML, CSS, JS, REACT**
+- 💬 Ask me about **Core Java, OOPS, Collection Framework,JDBC, Servlet, Hibernate, SQL, HTML, CSS, JS, REACT, NEXT.JS**
 
 - 📫 How to reach me **connect.lalukumar@gmail.com**
 
