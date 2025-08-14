@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeforgenet&label=Profile%20views&color=0e75b6&style=flat" alt="codeforgenet" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot, Spring Security. **
+- 🌱 I’m currently learning **Generative AI. **
 
-- 💬 Ask me about **Core Java, OOPS, Collection Framework, JDBC, Servlet, Hibernate, SQL, HTML, CSS, JS, REACT, NEXT.JS**
+- 💬 Ask me about **Core Java, OOPS, Collection Framework, JDBC, Servlet, Hibernate, SpringBoot, Logging, JPA, Spring Cloud SQL, HTML, CSS, JS, REACT.**
 
 - 📫 How to reach me **connect.lalukumar@gmail.com**
 
