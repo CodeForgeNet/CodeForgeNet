@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeforgenet&label=Profile%20views&color=0e75b6&style=flat" alt="codeforgenet" /> </p>
 
-- 🌱 I’m currently learning **Generative AI. **
+- 🌱 I’m currently learning **Generative AI.**
 
 - 💬 Ask me about **Core Java, OOPS, Collection Framework, JDBC, Servlet, Hibernate, SpringBoot, Logging, JPA, Spring Cloud SQL, HTML, CSS, JS, REACT.**
 
