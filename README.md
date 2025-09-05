@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **connect.lalukumar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1pOl2BwIUv9lpXf3vcZBIHghMygmdexbL?usp=share_link](https://drive.google.com/drive/folders/1pOl2BwIUv9lpXf3vcZBIHghMygmdexbL?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jwc-PNBeTA6pTg9pLhpVtOm5UDVFKWmy/view?usp=sharing)
 
 - ⚡ Fun fact **I am an Anime Lover**
 
