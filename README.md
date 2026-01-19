@@ -3,36 +3,35 @@
 
 ---
 
-### 🚀 About Me
-I am a FullStack Developer based in India, dedicated to mastering the **Java/Spring Boot** stack while currently expanding my expertise into **Generative AI**. I focus on building scalable web applications and solving complex logic problems.
+### 🚀 Professional Summary
+I build scalable web applications with a focus on the **Java/Spring Boot** ecosystem. I specialize in transforming complex business requirements into high-performance, maintainable code. 
 
-- 🌱 **Currently Learning:** Generative AI & LLM Integration.
-- 💬 **Ask Me About:** Spring Boot, Microservices, and React.
-- ⚡ **Fun Fact:** I’m an Anime lover—I appreciate complex character arcs and well-structured code.
+- 🛠️ **Current Focus:** Enhancing Spring Boot microservices with LLM capabilities.
+- 🏗️ **Architectural Philosophy:** Clean Code, SOLID principles, and DRY.
+- 🎌 **Fun Fact:** When I'm not debugging, I'm analyzing narrative structures in Anime.
 
 ---
 
-### 🔥 Contribution & Consistency
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeforgenet&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeforgenet&theme=tokyonight" alt="GitHub Streak" height="170" />
+### 🛠️ Strategic Tech Stack
+
+**Core Backend & Infrastructure**
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Modern Frontend & Design**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### 📊 Engineering Metrics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeforgenet&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeforgenet&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeforgenet&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Expertise
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Backend** | `Java`, `Spring Boot`, `Hibernate`, `JDBC`, `Servlet`, `Python` |
-| **Frontend** | `React`, `JavaScript`, `HTML5`, `CSS3`, `Tailwind CSS`, `Bootstrap` |
-| **Database** | `MySQL`, `MongoDB`, `Spring Cloud SQL`, `JPA` |
-| **Dev Tools** | `Git`, `Postman`, `Figma`, `Blender`, `Logging` |
-
----
-
-### 📬 Connect with Me
-- **Email:** [connect.lalukumar@gmail.com](mailto:connect.lalukumar@gmail.com)
-- **LinkedIn:** [Lalu Kumar](https://linkedin.com/in/lalu-kumar)
-- **StackOverflow:** [CodeForgeNet Profile](https://stackoverflow.com/users/23247510/codeforgenet)
-- **Experience:** [My Resume](https://drive.google.com/file/d/1M0Y-eyeYvKvrVaSpTPGB-spOXPc6No86/view?usp=sharing)
+### 📫 Connect & Collaborate
+- **Email:** connect.lalukumar@gmail.com
+- **LinkedIn:** [/in/lalu-kumar](https://linkedin.com/in/lalu-kumar)
+- **Portfolio/Resume:** [View Experience](https://drive.google.com/file/d/1M0Y-eyeYvKvrVaSpTPGB-spOXPc6No86/view?usp=sharing)
