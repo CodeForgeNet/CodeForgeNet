@@ -6,8 +6,8 @@
 ### 🚀 Professional Summary
 [cite_start]I architect AI-native SaaS architectures and production-grade full-stack systems[cite: 7]. [cite_start]I specialize in bridging high-concurrency Java/Spring Boot backends with frontier AI models and modern JavaScript frameworks.
 
-- [cite_start]🛠️ **Current Focus:** Building scalable RAG pipelines and optimizing LLM inference via semantic caching.
-- [cite_start]🏗️ **Architectural Philosophy:** Service-Oriented Architecture (SOA), Microservices, and AI-first system design.
+- 🛠️ **Current Focus:** Building scalable RAG pipelines and optimizing LLM inference via semantic caching.
+- 🏗️ **Architectural Philosophy:** Service-Oriented Architecture (SOA), Microservices, and AI-first system design.
 - 🎌 **Fun Fact:** When I'm not debugging, I'm analyzing narrative structures in Anime.
 
 ---
@@ -25,7 +25,7 @@
 ### 📊 Engineering Metrics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=codeforgenet&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeforgenet&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=codeforgenet&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeforgenet&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
