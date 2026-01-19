@@ -1,13 +1,13 @@
 # ⚡ Lalu Kumar | CodeForgeNet
-**AI Full Stack Engineer | Java & Next.js Ecosystems | [cite_start]RAG Specialist** [cite: 1, 7]
+**AI Full Stack Engineer | Java & Next.js Ecosystems | RAG Specialist**
 
 ---
 
 ### 🚀 Professional Summary
-[cite_start]I architect AI-native SaaS architectures and production-grade full-stack systems[cite: 7]. [cite_start]I specialize in bridging high-concurrency Java/Spring Boot backends with frontier AI models and modern JavaScript frameworks[cite: 8, 12].
+[cite_start]I architect AI-native SaaS architectures and production-grade full-stack systems[cite: 7]. [cite_start]I specialize in bridging high-concurrency Java/Spring Boot backends with frontier AI models and modern JavaScript frameworks.
 
-- [cite_start]🛠️ **Current Focus:** Building scalable RAG pipelines and optimizing LLM inference via semantic caching[cite: 8, 11].
-- [cite_start]🏗️ **Architectural Philosophy:** Service-Oriented Architecture (SOA), Microservices, and AI-first system design[cite: 12, 15].
+- [cite_start]🛠️ **Current Focus:** Building scalable RAG pipelines and optimizing LLM inference via semantic caching.
+- [cite_start]🏗️ **Architectural Philosophy:** Service-Oriented Architecture (SOA), Microservices, and AI-first system design.
 - 🎌 **Fun Fact:** When I'm not debugging, I'm analyzing narrative structures in Anime.
 
 ---
@@ -15,10 +15,10 @@
 ### 🛠️ Strategic Tech Stack
 
 **AI & Cloud Infrastructure**
-[cite_start]![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) [cite: 11, 14]
+[cite_start]![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 
 **Full-Stack Ecosystem (JS/Java)**
-[cite_start]![Next.js](https://img.shields.io/badge/-Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) [cite: 12, 13]
+[cite_start]![Next.js](https://img.shields.io/badge/-Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
@@ -32,6 +32,6 @@
 ---
 
 ### 📫 Connect & Collaborate
-- [cite_start]**Email:** connect.lalukumar@gmail.com [cite: 2]
-- [cite_start]**LinkedIn:** [lalu-kumar](https://linkedin.com/in/lalu-kumar) [cite: 4]
-- [cite_start]**Experience:** [View My Resume](https://drive.google.com/file/d/1M0Y-eyeYvKvrVaSpTPGB-spOXPc6No86/view?usp=sharing) [cite: 33]
+- [cite_start]**Email:** connect.lalukumar@gmail.com 
+- [cite_start]**LinkedIn:** [lalu-kumar](https://linkedin.com/in/lalu-kumar) 
+- [cite_start]**Experience:** [View My Resume](https://drive.google.com/file/d/1M0Y-eyeYvKvrVaSpTPGB-spOXPc6No86/view?usp=sharing)
