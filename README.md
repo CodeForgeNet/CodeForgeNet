@@ -1,5 +1,5 @@
 # ⚡ Lalu Kumar | CodeForgeNet
-**AI Full Stack Engineer | Java & Next.js Ecosystems **
+**AI Full Stack Engineer | Java & Next.js Ecosystems**
 
 ---
 
