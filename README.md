@@ -26,7 +26,7 @@ I architect AI-native SaaS architectures and production-grade full-stack systems
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=codeforgenet&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeforgenet&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-  <a href="https://git.io/streak-stats"><img src="https://www.google.com/url?sa=E&source=gmail&q=https://streak-stats.demolab.com/?user=codeforgenet%26theme=tokyonight%26hide_border=true" alt="GitHub Streak" height="150" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3Dcodeforgenet%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" height="150" /></a>
 </p>
 
 ---
