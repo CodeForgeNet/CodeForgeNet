@@ -25,13 +25,13 @@
 ### 📊 Engineering Metrics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=codeforgenet&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=codeforgenet&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeforgenet&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=codeforgenet&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
 ### 📫 Connect & Collaborate
-- [cite_start]**Email:** connect.lalukumar@gmail.com 
-- [cite_start]**LinkedIn:** [lalu-kumar](https://linkedin.com/in/lalu-kumar) 
-- [cite_start]**Experience:** [View My Resume](https://drive.google.com/file/d/1M0Y-eyeYvKvrVaSpTPGB-spOXPc6No86/view?usp=sharing)
+- **Email:** connect.lalukumar@gmail.com 
+- **LinkedIn:** [lalu-kumar](https://linkedin.com/in/lalu-kumar) 
+- **Experience:** [View My Resume](https://drive.google.com/file/d/1M0Y-eyeYvKvrVaSpTPGB-spOXPc6No86/view?usp=sharing)
