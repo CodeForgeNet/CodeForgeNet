@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 Professional Summary
-I architect AI-native SaaS architectures and production-grade full-stack systems[cite: 7]. [cite_start]I specialize in bridging high-concurrency Java/Spring Boot backends with frontier AI models and modern JavaScript frameworks.
+I architect AI-native SaaS architectures and production-grade full-stack systems. I specialize in bridging high-concurrency Java/Spring Boot backends with frontier AI models and modern JavaScript frameworks.
 
 - 🛠️ **Current Focus:** Building scalable RAG pipelines and optimizing LLM inference via semantic caching.
 - 🏗️ **Architectural Philosophy:** Service-Oriented Architecture (SOA), Microservices, and AI-first system design.
