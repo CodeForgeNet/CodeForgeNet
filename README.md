@@ -34,4 +34,4 @@ I architect AI-native SaaS architectures and production-grade full-stack systems
 - **Email:** connect.lalukumar@gmail.com 
 - **LinkedIn:** [lalu-kumar](https://linkedin.com/in/lalu-kumar) 
 - **Experience:** [View My Resume](https://drive.google.com/file/d/1M0Y-eyeYvKvrVaSpTPGB-spOXPc6No86/view?usp=sharing)
-- - **Portfolio:** [Portfolio Website](https://lalu-portfolio.vercel.app/)
+- **Portfolio:** [Portfolio Website](https://lalu-portfolio.vercel.app/)
