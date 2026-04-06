@@ -1,37 +1,62 @@
-# ⚡ Lalu Kumar | CodeForgeNet
-**Full Stack Engineer | AI & LLM DevTools Specialist | Creator of TunePrompt (Open-Source) | Java, Spring Boot, React**
+# Lalu Kumar | AI Systems & Full Stack Engineer
+**Building production-grade LLM infrastructure & AI-native SaaS** | [Resume](https://lalu-portfolio.vercel.app/resume.pdf) | [LinkedIn](https://linkedin.com/in/lalu-kumar)
 
 ---
 
-### 🚀 Professional Summary
-I architect AI-native SaaS architectures and production-grade full-stack systems. I specialize in bridging high-concurrency Java/Spring Boot backends with frontier AI models and modern JavaScript frameworks.
+## 🎯 What I Ship
 
-- 🛠️ **Current Focus:** Building scalable RAG pipelines and optimizing LLM inference via semantic caching.
-- 🏗️ **Architectural Philosophy:** Service-Oriented Architecture (SOA), Microservices, and AI-first system design.
-- 🎌 **Fun Fact:** When I'm not debugging, I'm analyzing narrative structures in Anime.
+**TunePrompt** — LLM evaluation framework (800+ npm downloads, open-source)
+- Automated prompt testing + cost analysis for Claude/GPT/Gemini
 
----
+**Genesis Forge** — Multi-agent orchestration system (24 agents, 79 skills, 13 workflows)
+- MCP-native, supports Claude CLI, Gemini CLI, Cline
 
-### 🛠️ Strategic Tech Stack
+**OpenContext (PCSL)** — Self-hosted context sovereignty layer
+- JWT-authenticated FastAPI server enabling AI tools to fetch user context securely
 
-**AI & Cloud Infrastructure**
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-
-**Full-Stack Ecosystem (JS/Java)**
-![Next.js](https://img.shields.io/badge/-Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+**Lead Filtration Engine @ HomeInTown** (current)
+- Real-time WhatsApp messaging pipeline, React/Vite frontend
+- Fixed critical ghost-message bug (nested payload field issue)
 
 ---
 
-### 📊 Engineering Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeforgenet&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeforgenet&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+## 🔧 Technical Depth
+
+**AI & LLM Infrastructure**
+- RAG systems: semantic chunking, retrieval optimization (95% precision in production)
+- Prompt caching & token optimization (25% savings on inference costs)
+- Multi-agent orchestration (LangGraph, CrewAI patterns)
+
+**Backend (Java/Spring Boot)**
+- Microservices: SOA design, Spring Data JPA, async concurrency patterns
+- High-load systems: 1000+ concurrent events, 30% latency reduction through optimization
+- PostgreSQL schema design, indexing strategies
+
+**Frontend (React/Next.js 15)**
+- TypeScript-first, modern hooks, server components
+- State management (Redux Toolkit, Zustand)
+
+**DevOps & Cloud**
+- Docker multi-stage builds, Google Cloud Run deployments
+- AWS Lambda (serverless RAG pipelines)
 
 ---
 
-### 📫 Connect & Collaborate
-- **Email:** connect.lalukumar@gmail.com 
-- **LinkedIn:** [lalu-kumar](https://linkedin.com/in/lalu-kumar) 
-- **Experience:** [View My Resume](https://drive.google.com/file/d/1M0Y-eyeYvKvrVaSpTPGB-spOXPc6No86/view?usp=sharing)
-- **Portfolio:** [Portfolio Website](https://lalu-portfolio.vercel.app/)
+## 🔗 Open Source Contributions
+
+- **OpenClaw** (#52513) — Fixed gateway auth false negatives (async SecretRef blocking)
+- **Modelcontextprotocol/servers** (#3678) — Added configurable `--follow-symlinks` flag
+- **Microsoft PromptFlow** (#4100) — Fixed JSONL UTF-8-BOM encoding in eval SDK
+
+---
+
+## 📈 Certifications & Learning
+- MCP Specialist (Anthropic)
+- AWS Solutions Architecture
+- MCA (IGNOU, in progress) | BCA (MMHAPU)
+
+---
+
+## 💬 Let's Build
+- **connect.lalukumar@gmail.com**
+- **CodeForgeNet** — GitHub org for production-grade open-source
