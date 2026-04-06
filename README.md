@@ -14,9 +14,6 @@
 **OpenContext (PCSL)** — Self-hosted context sovereignty layer
 - JWT-authenticated FastAPI server enabling AI tools to fetch user context securely
 
-**Lead Filtration Engine @ HomeInTown** (current)
-- Real-time WhatsApp messaging pipeline, React/Vite frontend
-- Fixed critical ghost-message bug (nested payload field issue)
 
 ---
 
