@@ -125,7 +125,7 @@ Real-time     Socket.IO · WebSockets
 
 - **MCP Specialist** — Anthropic
 - **AWS Solutions Architecture** — Amazon Web Services
-- **MCA** — IGNOU *(in progress)* | **BCA** — MMHAPU
+- **MCA** — IGNOU | **BCA** — MMHAPU
 
 ---
 
