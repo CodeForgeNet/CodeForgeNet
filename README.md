@@ -5,7 +5,7 @@
 
 *Building production-grade LLM infrastructure & AI-native SaaS*
 
-[![Status](https://img.shields.io/badge/status-building_in_public-1D9E75?style=flat-square&labelColor=0f2417)](https://github.com/karansingh)
+[![Status](https://img.shields.io/badge/status-building_in_public-1D9E75?style=flat-square&labelColor=0f2417)](https://github.com/CodeForgeNet)
 [![Org](https://img.shields.io/badge/org-CodeForgeNet-0C447C?style=flat-square&labelColor=0a2240)](https://github.com/CodeForgeNet)
 [![Email](https://img.shields.io/badge/email-connect.lalukumar%40gmail.com-BA7517?style=flat-square&labelColor=3d2600)](mailto:connect.lalukumar@gmail.com)
 
