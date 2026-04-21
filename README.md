@@ -1,59 +1,137 @@
-# Lalu Kumar | AI Systems & Full Stack Engineer
-**Building production-grade LLM infrastructure & AI-native SaaS** | [Resume](https://lalu-portfolio.vercel.app/resume.pdf) | [LinkedIn](https://linkedin.com/in/lalu-kumar)
+<div align="center">
+
+# Lalu Kumar
+### AI Systems & Full Stack Engineer
+
+*Building production-grade LLM infrastructure & AI-native SaaS*
+
+[![Status](https://img.shields.io/badge/status-building_in_public-1D9E75?style=flat-square&labelColor=0f2417)](https://github.com/karansingh)
+[![Org](https://img.shields.io/badge/org-CodeForgeNet-0C447C?style=flat-square&labelColor=0a2240)](https://github.com/CodeForgeNet)
+[![Email](https://img.shields.io/badge/email-connect.lalukumar%40gmail.com-BA7517?style=flat-square&labelColor=3d2600)](mailto:connect.lalukumar@gmail.com)
+
+</div>
 
 ---
 
-## 🎯 What I Ship
+<table>
+<tr>
+<td align="center" width="33%">
 
-**TunePrompt** — LLM evaluation framework (800+ npm downloads, open-source)
-- Automated prompt testing + cost analysis for Claude/GPT/Gemini
+**800+**
+<br><sub>npm downloads</sub>
 
-**Genesis Forge** — Multi-agent orchestration system (24 agents, 79 skills, 13 workflows)
-- MCP-native, supports Claude CLI, Gemini CLI, Cline
+</td>
+<td align="center" width="33%">
 
-**OpenContext (PCSL)** — Self-hosted context sovereignty layer
-- JWT-authenticated FastAPI server enabling AI tools to fetch user context securely
+**3**
+<br><sub>merged OSS PRs</sub>
 
+</td>
+<td align="center" width="33%">
+
+**24**
+<br><sub>agents shipped</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔧 Technical Depth
+## 🛠 Shipped Projects
 
-**AI & LLM Infrastructure**
-- RAG systems: semantic chunking, retrieval optimization (95% precision in production)
-- Prompt caching & token optimization (25% savings on inference costs)
+| Project | What it does | Stack |
+|---|---|---|
+| **[TunePrompt](https://github.com/CodeForgeNet/tuneprompt)** | LLM evaluation framework — automated prompt testing + cost analysis across Claude / GPT / Gemini. 800+ npm downloads. | `Node.js` `LangChain` `OpenAI SDK` |
+| **[Genesis Forge](https://github.com/CodeForgeNet/genesis-forge)** | Multi-agent orchestration system — 24 agents, 79 skills, 13 workflows. MCP-native, supports Claude CLI + Gemini CLI + Cline. | `MCP` `TypeScript` `multi-agent` |
+| **[OpenContext (PCSL)](https://github.com/CodeForgeNet/opencontext)** | Self-hosted context sovereignty layer — JWT-authenticated FastAPI server enabling AI tools to fetch user context securely. | `FastAPI` `JWT` `Python` |
+| **Real Estate SaaS** | AI voice calling + lead filtration engine with CRM. WhatsApp integration, Cloud Run deployment, Redis-backed queuing. | `MERN` `360Dialog` `Cloud Run` |
+
+---
+
+## 🔬 Technical Depth
+
+<details>
+<summary><strong>AI & LLM Infrastructure</strong></summary>
+<br>
+
+- RAG systems: semantic chunking, retrieval optimization — 95% precision in production
+- Prompt caching & token optimization — 25% savings on inference costs
 - Multi-agent orchestration (LangGraph, CrewAI patterns)
+- MCP server design and integration (Anthropic MCP Specialist certified)
 
-**Backend (Java/Spring Boot)**
+</details>
+
+<details>
+<summary><strong>Backend — Java / Spring Boot & Node.js</strong></summary>
+<br>
+
 - Microservices: SOA design, Spring Data JPA, async concurrency patterns
 - High-load systems: 1000+ concurrent events, 30% latency reduction through optimization
-- PostgreSQL schema design, indexing strategies
+- PostgreSQL schema design and indexing strategies
+- NestJS modular architecture, event-driven patterns
 
-**Frontend (React/Next.js 15)**
+</details>
+
+<details>
+<summary><strong>Frontend — React / Next.js 15</strong></summary>
+<br>
+
 - TypeScript-first, modern hooks, server components
-- State management (Redux Toolkit, Zustand)
+- State management: Redux Toolkit, Zustand
+- Real-time UIs with Socket.IO
 
-**DevOps & Cloud**
+</details>
+
+<details>
+<summary><strong>DevOps & Cloud</strong></summary>
+<br>
+
 - Docker multi-stage builds, Google Cloud Run deployments
-- AWS Lambda (serverless RAG pipelines)
+- AWS Lambda — serverless RAG pipelines
+- Redis / Upstash for queuing and caching
+- AWS Solutions Architect certified
+
+</details>
 
 ---
 
 ## 🔗 Open Source Contributions
 
-- **OpenClaw** (#52513) — Fixed gateway auth false negatives (async SecretRef blocking)
-- **Modelcontextprotocol/servers** (#3678) — Added configurable `--follow-symlinks` flag
-- **Microsoft PromptFlow** (#4100) — Fixed JSONL UTF-8-BOM encoding in eval SDK
+```
+✓ openClaw         #52513   Fixed async gateway auth false negatives (SecretRef blocking)
+✓ openClaw         #52921   Implemented session auto-bootstrap
+✓ mcp/servers      #3678    Added configurable --follow-symlinks depth flag
+✓ ms/promptflow    #4100    Fixed JSONL UTF-8-BOM encoding in eval SDK
+```
 
 ---
 
-## 📈 Certifications & Learning
-- MCP Specialist (Anthropic)
-- AWS Solutions Architecture
-- MCA (IGNOU, in progress) | BCA (MMHAPU)
+## 🧰 Core Stack
+
+```
+Languages     TypeScript · Java · Python · JavaScript
+Backend       Node.js · NestJS · Spring Boot · FastAPI
+Frontend      React · Next.js 15 · Redux Toolkit · Zustand
+AI / LLM      LangChain · LangGraph · Pinecone · MCP
+Databases     PostgreSQL · MongoDB · Redis · Upstash
+Cloud / Infra Docker · Cloud Run · AWS Lambda · GitHub Actions
+Real-time     Socket.IO · WebSockets
+```
 
 ---
 
-## 💬 Let's Build
-- **connect.lalukumar@gmail.com**
-- **CodeForgeNet** — GitHub org for production-grade open-source
+## 📜 Certifications
+
+- **MCP Specialist** — Anthropic
+- **AWS Solutions Architecture** — Amazon Web Services
+- **MCA** — IGNOU *(in progress)* | **BCA** — MMHAPU
+
+---
+
+<div align="center">
+
+*I build at the intersection of LLM infrastructure and full stack engineering.*
+*Every repo under [CodeForgeNet](https://github.com/CodeForgeNet) is production-intent, not a tutorial.*
+
+</div>
