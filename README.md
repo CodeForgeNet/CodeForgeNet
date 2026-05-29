@@ -98,12 +98,12 @@
 
 ## 🔗 Open Source Contributions
 
-```
-✓ openClaw         #52513   Fixed async gateway auth false negatives (SecretRef blocking)
-✓ openClaw         #52921   Implemented session auto-bootstrap
-✓ mcp/servers      #3678    Added configurable --follow-symlinks depth flag
-✓ ms/promptflow    #4100    Fixed JSONL UTF-8-BOM encoding in eval SDK
-```
+| Repo | PR | Contribution |
+|---|---|---|
+| [openClaw](https://github.com/openclaw/openclaw/releases/tag/v2026.4.12) | #52513 | Fixed async gateway auth false negatives (SecretRef blocking) |
+| [openClaw](https://github.com/openclaw/openclaw/releases/tag/v2026.4.12) | #52921 | Implemented session auto-bootstrap |
+| mcp/servers | #3678 | Added configurable `--follow-symlinks` depth flag |
+| ms/promptflow | #4100 | Fixed JSONL UTF-8-BOM encoding in eval SDK |
 
 ---
 
