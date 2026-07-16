@@ -4,22 +4,25 @@
 
 **AI Systems Engineer — LLM infrastructure, multi-agent systems, production SaaS**
 
-[![CodeForgeNet](https://img.shields.io/badge/CodeForgeNet-0C447C?style=flat-square&logo=github&logoColor=white)](https://github.com/CodeForgeNet)
-[![MCP Specialist — Anthropic](https://img.shields.io/badge/MCP_Specialist-Anthropic-1D9E75?style=flat-square)](https://www.anthropic.com)
-[![AWS Solutions Architect](https://img.shields.io/badge/Solutions_Architect-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-[![Email](https://img.shields.io/badge/connect.lalukumar%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:connect.lalukumar@gmail.com)
+[![CodeForgeNet](
 
-</div>
+CodeForgeNet
 
----
+)
+[![MCP Specialist — Anthropic](
 
-<div align="center">
-  <a href="https://github.com/jeantimex/neofetch-profile">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://neofetch-profile.vercel.app/api?username=CodeForgeNet&theme=github-dark">
-      <img alt="Neofetch Profile" src="https://neofetch-profile.vercel.app/api?username=CodeForgeNet&theme=github-light">
-    </picture>
-  </a>
+MCP Specialist: Anthropic
+
+[![AWS Solutions Architect](
+
+Solutions Architect: AWS
+
+)
+[![Email](
+
+connect.lalukumar@gmail.com
+
+
 </div>
 
 ---
@@ -28,7 +31,12 @@
 
 Building a **real estate lead filtration SaaS** — AI voice calling, WhatsApp integration (360Dialog), Redis-backed queuing, Cloud Run. MERN + Telnyx. Targeting India-first launch.
 
-Contributing upstream to [openClaw](https://github.com/openclaw/openclaw/releases/tag/v2026.4.12), [MCP servers](https://github.com/modelcontextprotocol/servers), and [Microsoft PromptFlow](https://github.com/microsoft/promptflow).
+Contributing upstream to [openClaw](
+
+Release openclaw 2026.4.12 · openclaw/openclaw
+Sign in • Platform ◦ AI CODE CREATION ▪ GitHub CopilotWrite better code with AI ▪ GitHub Copilot appDirect agents from issue to merge ▪ MCP RegistryNewIntegrate external tools ◦ ◦ DEVELOPER WORKFLOWS ▪ ActionsAutomate any workflow ▪ CodespacesInstant dev environments ▪ IssuesPlan and track work ▪ Code ReviewManage code changes ◦ ◦ APPLICATION SECURITY ▪ GitHub Advanced SecurityFind and fix vulnerabilities ▪ Code securitySecure your code as you build ▪ Secret protectionStop leaks before they start ◦ ◦ EXPLORE ▪ Why GitHub ▪ Documentation ▪ Blog ▪ Changelog ▪ Marketplace ◦ • View all features • Solutions ◦ BY COMPANY SIZE ▪ Enterprises ▪ Small and medium teams ▪ Startups ▪ Nonprofits ◦ ◦ BY USE CASE ▪ App Modernization ▪ DevSecOps ▪ DevOps ▪ CI/CD ▪ View all use cases ◦ ◦ BY INDUSTRY ▪ Healthcare ▪ Financial services ▪ Manufacturing ▪ Government ▪ View all industries ◦ • View all solutions • Resources ◦ EXPLORE BY TOPIC ▪ AI ▪ Software Development ▪ DevOps ▪ Security ▪ View all topics ◦ ◦ EXPLORE BY TYPE ▪ Customer stories ▪ Events & webinars ▪ Ebooks & reports ▪ Business insights ▪ GitHub Skills ◦ ◦ SUPPORT & SERVICES ▪ Documentation ▪ Customer support ▪ Community forum ▪ Trust center ▪ Partners ◦ • View all resources • Open Source ◦ COMMUNITY ▪ GitHub SponsorsFund open source developers ◦ ◦ PROGRAMS ▪ Security Lab ▪ Maintainer Community ▪ Accelerator ▪ GitHub Stars ▪ Archive Program ◦ ◦ REPOSITORIES ▪ Topics ▪ Trending ▪ Collections ◦ • • Enterprise ◦ ENTERPRISE SOLUTIONS ▪ Enterprise platformAI-powered developer platform ◦ ◦ AVAILABLE ADD-ONS ▪ GitHub Advanced SecurityEnterprise-grade security features ▪ Copilot for BusinessEnterprise-grade AI features ▪ Premium SupportEnterprise-grade 24/7 support ◦ • • Pricing Search or jump to... Search code, repositories, users, issues, pull requests...
+
+).
 
 ---
 
@@ -36,9 +44,21 @@ Contributing upstream to [openClaw](https://github.com/openclaw/openclaw/release
 
 | Project | What it does | Proof |
 |---|---|---|
-| **[TunePrompt](https://github.com/CodeForgeNet/tuneprompt)** | LLM evaluation framework — automated prompt testing + cost analysis across Claude, GPT, Gemini | 800+ npm installs |
-| **[Genesis Forge](https://github.com/CodeForgeNet/genesis-forge)** | Multi-agent orchestration — 24 agents, 79 skills, 13 workflows. MCP-native. | Claude CLI + Gemini CLI + Cline |
-| **[OpenContext](https://github.com/CodeForgeNet/opencontext)** | Self-hosted context sovereignty protocol — JWT-authenticated FastAPI server for AI context delivery | Open protocol, self-hostable |
+| **[TunePrompt](
+
+GitHub - CodeForgeNet/tuneprompt: Industrial-grade testing framework for LLM prompts
+Industrial-grade testing framework for LLM prompts - CodeForgeNet/tuneprompt
+
+| **[Genesis Forge](
+
+GitHub - CodeForgeNet/Genesis-Forge: A multi-agent AI orchestration kit with 80 skills, 24 specialist agents, and 13 slash-command workflows.
+A multi-agent AI orchestration kit with 80 skills, 24 specialist agents, and 13 slash-command workflows. - CodeForgeNet/Genesis-Forge
+
+| **[OpenContext](
+
+GitHub - CodeForgeNet/opencontext
+Contribute to CodeForgeNet/opencontext development by creating an account on GitHub.
+
 
 ---
 
@@ -46,10 +66,29 @@ Contributing upstream to [openClaw](https://github.com/openclaw/openclaw/release
 
 | Repo | PR | Fix |
 |---|---|---|
-| [openClaw](https://github.com/openclaw/openclaw/releases/tag/v2026.4.12) | [#52513](https://github.com/openclaw/openclaw/pull/52513) | Async gateway auth false negatives — SecretRef was blocking legit requests |
-| [openClaw](https://github.com/openclaw/openclaw/releases/tag/v2026.4.12) | [#52921](https://github.com/openclaw/openclaw/pull/52921) | Session auto-bootstrap — eliminated cold-start auth failures |
-| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | [#3678](https://github.com/modelcontextprotocol/servers/pull/3678) | Configurable `--follow-symlinks` depth flag for filesystem server |
-| [microsoft/promptflow](https://github.com/microsoft/promptflow) | [#4100](https://github.com/microsoft/promptflow/pull/4100) | JSONL UTF-8-BOM encoding — silent data corruption in eval SDK |
+| [openClaw](
+
+Release openclaw 2026.4.12 · openclaw/openclaw
+Sign in • Platform ◦ AI CODE CREATION ▪ GitHub CopilotWrite better code with AI ▪ GitHub Copilot appDirect agents from issue to merge ▪ MCP RegistryNewIntegrate external tools ◦ ◦ DEVELOPER WORKFLOWS ▪ ActionsAutomate any workflow ▪ CodespacesInstant dev environments ▪ IssuesPlan and track work ▪ Code ReviewManage code changes ◦ ◦ APPLICATION SECURITY ▪ GitHub Advanced SecurityFind and fix vulnerabilities ▪ Code securitySecure your code as you build ▪ Secret protectionStop leaks before they start ◦ ◦ EXPLORE ▪ Why GitHub ▪ Documentation ▪ Blog ▪ Changelog ▪ Marketplace ◦ • View all features • Solutions ◦ BY COMPANY SIZE ▪ Enterprises ▪ Small and medium teams ▪ Startups ▪ Nonprofits ◦ ◦ BY USE CASE ▪ App Modernization ▪ DevSecOps ▪ DevOps ▪ CI/CD ▪ View all use cases ◦ ◦ BY INDUSTRY ▪ Healthcare ▪ Financial services ▪ Manufacturing ▪ Government ▪ View all industries ◦ • View all solutions • Resources ◦ EXPLORE BY TOPIC ▪ AI ▪ Software Development ▪ DevOps ▪ Security ▪ View all topics ◦ ◦ EXPLORE BY TYPE ▪ Customer stories ▪ Events & webinars ▪ Ebooks & reports ▪ Business insights ▪ GitHub Skills ◦ ◦ SUPPORT & SERVICES ▪ Documentation ▪ Customer support ▪ Community forum ▪ Trust center ▪ Partners ◦ • View all resources • Open Source ◦ COMMUNITY ▪ GitHub SponsorsFund open source developers ◦ ◦ PROGRAMS ▪ Security Lab ▪ Maintainer Community ▪ Accelerator ▪ GitHub Stars ▪ Archive Program ◦ ◦ REPOSITORIES ▪ Topics ▪ Trending ▪ Collections ◦ • • Enterprise ◦ ENTERPRISE SOLUTIONS ▪ Enterprise platformAI-powered developer platform ◦ ◦ AVAILABLE ADD-ONS ▪ GitHub Advanced SecurityEnterprise-grade security features ▪ Copilot for BusinessEnterprise-grade AI features ▪ Premium SupportEnterprise-grade 24/7 support ◦ • • Pricing Search or jump to... Search code, repositories, users, issues, pull requests...
+
+| [openClaw](
+
+Release openclaw 2026.4.12 · openclaw/openclaw
+Sign in • Platform ◦ AI CODE CREATION ▪ GitHub CopilotWrite better code with AI ▪ GitHub Copilot appDirect agents from issue to merge ▪ MCP RegistryNewIntegrate external tools ◦ ◦ DEVELOPER WORKFLOWS ▪ ActionsAutomate any workflow ▪ CodespacesInstant dev environments ▪ IssuesPlan and track work ▪ Code ReviewManage code changes ◦ ◦ APPLICATION SECURITY ▪ GitHub Advanced SecurityFind and fix vulnerabilities ▪ Code securitySecure your code as you build ▪ Secret protectionStop leaks before they start ◦ ◦ EXPLORE ▪ Why GitHub ▪ Documentation ▪ Blog ▪ Changelog ▪ Marketplace ◦ • View all features • Solutions ◦ BY COMPANY SIZE ▪ Enterprises ▪ Small and medium teams ▪ Startups ▪ Nonprofits ◦ ◦ BY USE CASE ▪ App Modernization ▪ DevSecOps ▪ DevOps ▪ CI/CD ▪ View all use cases ◦ ◦ BY INDUSTRY ▪ Healthcare ▪ Financial services ▪ Manufacturing ▪ Government ▪ View all industries ◦ • View all solutions • Resources ◦ EXPLORE BY TOPIC ▪ AI ▪ Software Development ▪ DevOps ▪ Security ▪ View all topics ◦ ◦ EXPLORE BY TYPE ▪ Customer stories ▪ Events & webinars ▪ Ebooks & reports ▪ Business insights ▪ GitHub Skills ◦ ◦ SUPPORT & SERVICES ▪ Documentation ▪ Customer support ▪ Community forum ▪ Trust center ▪ Partners ◦ • View all resources • Open Source ◦ COMMUNITY ▪ GitHub SponsorsFund open source developers ◦ ◦ PROGRAMS ▪ Security Lab ▪ Maintainer Community ▪ Accelerator ▪ GitHub Stars ▪ Archive Program ◦ ◦ REPOSITORIES ▪ Topics ▪ Trending ▪ Collections ◦ • • Enterprise ◦ ENTERPRISE SOLUTIONS ▪ Enterprise platformAI-powered developer platform ◦ ◦ AVAILABLE ADD-ONS ▪ GitHub Advanced SecurityEnterprise-grade security features ▪ Copilot for BusinessEnterprise-grade AI features ▪ Premium SupportEnterprise-grade 24/7 support ◦ • • Pricing Search or jump to... Search code, repositories, users, issues, pull requests...
+
+) | Session auto-bootstrap — eliminated cold-start auth failures |
+| [modelcontextprotocol/servers](
+
+GitHub - modelcontextprotocol/servers: Model Context Protocol Servers
+Model Context Protocol Servers. Contribute to modelcontextprotocol/servers development by creating an account on GitHub.
+
+) | Configurable `--follow-symlinks` depth flag for filesystem server |
+| [microsoft/promptflow](
+
+GitHub - microsoft/promptflow: Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring. - microsoft/promptflow
+
+) | JSONL UTF-8-BOM encoding — silent data corruption in eval SDK |
 
 ---
 
@@ -61,6 +100,25 @@ Contributing upstream to [openClaw](https://github.com/openclaw/openclaw/release
 
 <div align="center">
 
-*Every repo under [CodeForgeNet](https://github.com/CodeForgeNet) ships. No tutorials, no toy projects.*
+*Every repo under [CodeForgeNet](
+
+CodeForgeNet - Overview
+CodeForgeNet has 52 repositories available. Follow their code on GitHub.
+
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
