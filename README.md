@@ -13,6 +13,11 @@
 
 ---
 
+<!-- start_of_neofetch -->
+<!-- end_of_neofetch -->
+
+---
+
 ### Now
 
 Building a **real estate lead filtration SaaS** — AI voice calling, WhatsApp integration (360Dialog), Redis-backed queuing, Cloud Run. MERN + Telnyx. Targeting India-first launch.
